@@ -25,3 +25,5 @@ build/
 dist/
 bundle.js
 .env
+maps_api_key.js
+nomad-key2.pem
