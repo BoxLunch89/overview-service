@@ -1,43 +1,23 @@
-# Project Name
+# Nomad Travel
 
-> Project description
+> Nomad Travel is a travel platform that displays information, ratings, reviews, and other travel-related content for top destinations. This repo contains the Overview service, which displays the header and informational summary for destinations on the platform. 
 
-## Related Projects
+## Other application services
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+  - https://github.com/BoxLunch89/recommendations-service
+  - https://github.com/BoxLunch89/nearby-service
+  - https://github.com/BoxLunch89/q-a-service
+  - https://github.com/BoxLunch89/reviews-service
 
-## Table of Contents
+## Getting Started
+### Prerequisites
+- npm  
+- node  
+- webpack  
+- MongoDB   
 
-1. [Usage](#Usage)
+### Installation
+1. Install dependencies: `npm install`
+2. Run `npm start`
 
-1. [Requirements](#requirements)
-  Random Puppy for image urls
-  Faker for other data
-
-1. [Development](#development)
-
-## Usage
-
-> Some usage instructions
-
-## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
-
-### Installing Dependencies
-
-From within the root directory:
-
-```sh
-npm install -g webpack
-npm install
-```
-
+In your browser navigate to: [http://localhost:3004/:id](http://localhost:3004/:id)
